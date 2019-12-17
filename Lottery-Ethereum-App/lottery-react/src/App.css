@@ -1,0 +1,38 @@
+body{
+  background: url(background.jpg)
+}
+
+.lottery--app-container{
+  color: #ECECEC; 
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  opacity: 1;
+}
+
+
+
+.header .ant-comment-content-author > span {
+ padding-top: 0.6rem; 
+  font-weight: bolder;
+  font-size: 1rem;
+}
+
+.header .ant-divider-horizontal {
+  display: block;
+  clear: both;
+  width: 100%;
+  min-width: 100%;
+  height: 1px;
+  margin: 2px 0;
+}
+
+.manager-text,.ant-descriptions-item-label,.ant-descriptions-item-content,label,.ant-form-text{
+  color: black;
+  font-weight: bold;
+}
+
+.label-form{
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
